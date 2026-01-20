@@ -1,6 +1,6 @@
 # Brain Tumor Detection
 
-A deep learning project using PyTorch to detect brain tumors from MRI scans with 86% accuracy.
+I created a deep learning project using PyTorch to detect brain tumors from MRI scans with 86% accuracy.
 
 ## Overview
 
